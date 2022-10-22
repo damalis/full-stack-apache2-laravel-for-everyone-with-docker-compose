@@ -201,7 +201,7 @@ docker-compose up -d
 
 ### Website
 
-You should see the "Welcome to Laravel MVC Skeleton Application" page in your browser. If not, please check if your PHP installation satisfies Laravel's requirements.
+You should see the "Laravel" page in your browser. If not, please check if your PHP installation satisfies Laravel's requirements.
 
 ```
 https://example.com
@@ -251,6 +251,8 @@ Redis host = redis
 Redis host port = 6379
 
 [https://laravel.com/docs/9.x/redis](https://laravel.com/docs/9.x/redis)
+
+Your application's cache configuration file is located at config/cache.php.
 
 [https://laravel.com/docs/9.x/cache#main-content](https://laravel.com/docs/9.x/cache#main-content)
 
